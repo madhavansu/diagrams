@@ -12,3 +12,6 @@ PlantUML
 ASCII diagrams  
 ASCII diagrams - asciiflow & monodraw (Mac only)  
 Markmap  
+
+## 10 Architectural Principles
+![10-architectural-principles](https://github.com/madhavansu/diagrams/blob/main/10-architectural-principles.png)
